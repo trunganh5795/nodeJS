@@ -1,0 +1,14 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "poduct management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "trung anh",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
